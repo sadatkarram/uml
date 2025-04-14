@@ -1,4 +1,4 @@
-package org.example.generalization.inheritence;
+package org.example.generalization.extendds;
 
 // Dog is-a Animal
 public class Dog extends Animal{

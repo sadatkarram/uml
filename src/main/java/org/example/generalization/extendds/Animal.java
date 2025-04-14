@@ -1,4 +1,4 @@
-package org.example.generalization.inheritence;
+package org.example.generalization.extendds;
 
 public class Animal {
 
